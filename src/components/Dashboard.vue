@@ -271,7 +271,7 @@ export default {
   .head-container {
     display: flex;
     height: 100%;
-    min-height: 720px;
+    /*min-height: 720px;*/
   }
   .side-nav {
     /*height: 100%;*/
