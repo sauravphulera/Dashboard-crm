@@ -282,12 +282,12 @@ export default {
     width: 100%;
     height: 100%;
     display: flex;
-    background-color: lightgray;
+    background-color: #efefef;
   }
   .dashboard {
     width: 88%;
     height: calc(100% - 3em);
-    padding: 1em;
+    padding: 1em 1em 0.1em 1em;
   }
   .sidebar {
     width: 22%;
